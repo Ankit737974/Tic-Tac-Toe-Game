@@ -13,8 +13,8 @@ A simple and interactive Tic-Tac-Toe game built using **HTML**, **CSS**, and **J
 
 ## 🖼️ Screenshots
 
-![Tic-Tac-Toe Screenshot](<img width="1759" height="866" alt="Screenshot 2025-07-12 091250" src="https://github.com/user-attachments/assets/e6c4e66b-03fd-40c8-82b4-9e9a66dcbc63" />
-) 
+<img width="1759" height="866" alt="Screenshot 2025-07-12 091250" src="https://github.com/user-attachments/assets/e6c4e66b-03fd-40c8-82b4-9e9a66dcbc63" />
+
 
 ## 🛠️ Technologies Used
 
